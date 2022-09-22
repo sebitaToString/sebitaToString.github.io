@@ -1,10 +1,8 @@
-<h1 align="center">Justin Thoreson</h1>
-<table>
+<h1 align="center">Sebastian Ramos Piña</h1>
+<table style="border: 1px solid">
   <tbody>
     <tr>
-      <td><b>Información</b></td>
-      <td width="50%" rowspan="4"> 
-      </td>
+      <td><b>Información</b></td> 
     </tr>
     <tr>
       <td>
